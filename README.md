@@ -1,5 +1,7 @@
 # CONTROL DE ACCESO IMPLEMENTADO CON TFLITE
 
+![alt-text-1](sc1.png) ![alt-text-2](sc2.png)![alt-text-3](sc3.png)
+
 App Android desarrollada en Java + Kotlin para control de acceso de staff, mediante reconocimiento facial, a aplicar en Restaurants.
 
 Redes neuronales implementadas (TFLite):
@@ -16,6 +18,6 @@ Funcionalidades:
 EMBEDDINGS A ENVIAR A SERVICIOS:
 
   - ENROLAMIENTO: Variables embedding1, embedding2, embedding3 en MainActivity.java (lineas 222, 223 y 224)
-  - RECONOCIMIENTO: Variable embedding1 RecoActivity.java (linea 157)
+  - RECONOCIMIENTO: Variable embedding1 en RecoActivity.java (linea 157)
 
 *están en float, quizas es necesario mandar como str
