@@ -1,8 +1,6 @@
 # CONTROL DE ACCESO IMPLEMENTADO CON TFLITE
 
-<img src="./sc1.png" width="100">
-<img src="./sc2.png" width="100">
-<img src="./sc3.png" width="100">
+<img src="./sc1.png" width="300"><img src="./sc2.png" width="300"><img src="./sc3.png" width="300">
 
 App Android desarrollada en Java + Kotlin para control de acceso de staff, mediante reconocimiento facial, a aplicar en Restaurants.
 
